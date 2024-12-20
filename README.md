@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akira2809
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs and Solving promblem 
 - 📫 How to reach me https://www.facebook.com/Akiraaa2809
 - ⚡ Fun fact: Im a student 
 
