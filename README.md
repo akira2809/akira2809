@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akira2809
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Typescript and Solving promblem 
-- 📫 How to reach me https://www.facebook.com/Akiraaa2809
+- 📫 How to reach me khadoan.190809@gmail.com
 - ⚡ Fun fact: Im a student 
 
 <!---
