@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kinh Kha you can call me Akira and I'm a Student, from VietNam</h2>
+<h2 align="left">Hi 👋! My name is Kinh Kha you can call me Akira</h2>
 
 ###
 
