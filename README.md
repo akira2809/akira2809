@@ -1,7 +1,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&redirect=true)
 
 
-<h1 align="center">Hi 👋, I'm Kinh Kha</h1>
+<h1 align="center">Hi 👋, I'm Akira</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akira2809&label=Profile%20views&color=0e75b6&style=flat" alt="akira2809" /> </p>
