@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Akira</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akira2809&label=Profile%20views&color=0e75b6&style=flat" alt="akira2809" /> </p>
 
-- 🌱 I’m currently learning **Nextjs,NestJs,React,Angular,Gsap,Express,Docker,CI/CD**
+- 🌱 I’m currently learning **Nextjs,NestJs,React,Angular,Gsap,Express,**
 
 - 💬 Ask me about **React,Next,Nest,Gsap,..**
 
