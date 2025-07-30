@@ -1,10 +1,12 @@
 <p align="center">
   <img 
     src="https://imgs.search.brave.com/cxQdNKUNL87Kor6uc-0YDuCVUgJL0X3fCuM5bEqwW9E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbGFpbi00/OTgteC0zNTEtZ2lm/LXNzNGpqaXJoMm13/YjJ5OWkuZ2lm.gif" 
-    alt="akira2809" 
-    width="100%"
+    alt="akira2809"
+    height="900"
+    width ="60%"
   />
 </p>
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&redirect=true)
 
