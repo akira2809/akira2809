@@ -37,11 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username={github_username}&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+## 💭 Quote of the Day
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={github_username}&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
