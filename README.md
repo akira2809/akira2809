@@ -33,9 +33,7 @@
 
  📊 GitHub Streaks
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={github_username}&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira2809&" alt="akira2809" /></p>
 
 
 ## 💭 Quote of the Day
