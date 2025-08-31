@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://imgs.search.brave.com/cxQdNKUNL87Kor6uc-0YDuCVUgJL0X3fCuM5bEqwW9E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbGFpbi00/OTgteC0zNTEtZ2lm/LXNzNGpqaXJoMm13/YjJ5OWkuZ2lm.gif" 
+    src="https://media1.tenor.com/m/TGHrX5Teh2UAAAAC/akira.gif" 
     alt="akira2809"
     height="900"
     width ="60%"
