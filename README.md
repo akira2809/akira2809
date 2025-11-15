@@ -6,15 +6,7 @@
     height="450px"
   />
 </div>
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hiu5xfxytvye7fjpj4djf6z2zy&redirect=true)
 
