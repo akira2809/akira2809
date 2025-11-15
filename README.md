@@ -3,7 +3,7 @@
     src="https://media1.tenor.com/m/kvI9Ondz1UkAAAAC/rafa%C5%82-chi-chikyuu-no-undou-ni-tsuite.gif" 
     alt="akira2809"
     width ="100%"
-    height="500px"
+    height="300px"
   />
 </div>
 <div align="center">
