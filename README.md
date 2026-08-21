@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://media1.tenor.com/m/HGXFQ5ympGAAAAAC/rafa%C5%82-chi-chikyuu-no-undou-ni-tsuite.gif" 
+    src="https://i.imgur.com/3L4ibDn.gif" 
     alt="akira2809"
     width ="100%"
     height="450px"
