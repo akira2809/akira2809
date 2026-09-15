@@ -11,3 +11,5 @@
 <h1 align="center">Hi 👋, I'm Akira</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=akira.2809)
+
